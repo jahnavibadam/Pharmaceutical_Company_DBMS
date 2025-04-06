@@ -1,0 +1,6 @@
+001|Acticlate|Aqua Pharmaceuticals LLC|doxycycline hyclate; 4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride, compound with ethyl alcohol (2:1), monohydrate
+002|Prinivil|MERCK|lisinopril; (2S)-1-[(2S)-6-amino-2-[[(1S)-1-carboxy-3-phenylpropyl]amino]hexanoyl]pyrrolidine-2-carboxylic acid
+003|Tylenol|McNeil Consumer Products Co.|acetaminophen; N-(4-hydroxyphenyl)acetamide
+004|Sublimaze|Akorn Inc.|fentanyl citrate; 2-hydroxypropane-1,2,3-tricarboxylic acid;N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
+005|Advil|Wyeth Pharmaceuticals|ibuprofen; 2-[4-(2-methylpropyl)phenyl]propanoic acid
+006|Xanax|Pfizer Pharmaceuticals|alprazolam; 8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine
